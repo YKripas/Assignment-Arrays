@@ -11,10 +11,10 @@
 
 */
 //ADDING THE ARRAYS FOR PRODUCTS
-var aName = [An official Dogi(Uniform), Black Belts, Colored Belts, Shinkyokushin t-shirt];
+var aName = ["An official Dogi(Uniform)", "Black Belts","Colored Belts", "Shinkyokushin t-shirt"];
 var aPrice = [50.00, 14.99, 7.99, 14.99];
-var aDescription = [An official Dogi uniform used when practicing]
-var aImage = [shinkyokushin-uniform, black%20belt, colored%20belts, shinkyokushin%20tshirt]
+var aDescription = ["An official Dogi uniform used when practicing", "bla", "bla", "bla"];
+var aImage = ["shinkyokushin-uniform", "black%20belt", "colored%20belts", "shinkyokushin%20tshirt"];
 
 
 function getID()
